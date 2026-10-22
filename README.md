@@ -46,12 +46,31 @@ flowchart LR
 
 ### 🌟 Repositorios Destacados:
 
-1. **[stitch2elementor](https://github.com/floydiamarkv-byte/stitch2elementor)** — *The Universal Deterministic Bridge*
-   - Transpila interfaces generadas en Google Stitch AI directamente a WordPress Elementor Flexbox Containers (`elType: "container"`) y sitios estáticos de ultra-alta velocidad. Cero alucinaciones, 27 reglas anti-error integradas y arquitectura 100% determinista.
-2. **[FreeLanceScrapper](https://github.com/floydiamarkv-byte/FreeLanceScrapper)** — *AI-Powered Market Intelligence*
-   - Pipeline automatizado de inteligencia de mercado freelance. Extrae proyectos en tiempo real de Freelancer.com, los sintetiza con Groq LLM (Llama 3.3 70B) y distribuye alertas ejecutivas por Telegram, Email y Google Drive.
-3. **[notebooklm-research](https://github.com/floydiamarkv-byte/notebooklm-research)** — *Deep Agentic Research Engine*
-   - Skill agéntica para investigación y síntesis profunda utilizando el Método MIT (5 Modelos Mentales, Debates Expertos y MOC Vault) conectado a Google NotebookLM.
+**1. [floydia-suite-desktop](https://github.com/floydiamarkv-byte/floydia-suite-desktop)** — *Desktop Command Center & AI Orchestrator* (`PyQt6`, `MIT`, CI verde en Python 3.10–3.13)
+
+   Centro de mando unificado para Linux Desktop que opera flotas de modelos LLM: telemetría en vivo (latencia, TTFT, TPS, cuotas 402/429), catálogo de 400+ modelos, cockpit de servidores MCP, propagación atómica y auditable de configuración a OpenCode / Hermes / DeepSeek Harness, gestor multi-cuenta de APIs, limpiador BleachBit con allowlist de rutas protegidas y SRE Governor. 58 tests, job de secret scan con gitleaks, `SECURITY.md` y `CONTRIBUTING.md`.
+   [![CI](https://github.com/floydiamarkv-byte/floydia-suite-desktop/actions/workflows/ci.yml/badge.svg)](https://github.com/floydiamarkv-byte/floydia-suite-desktop/actions/workflows/ci.yml)
+
+**2. [floydia-ai-observatory](https://github.com/floydiamarkv-byte/floydia-ai-observatory)** — *AI Command & Observatory Suite* (`Python`, `MIT`, 65 tests)
+
+   Agrega y normaliza métricas de 8 fuentes de benchmark (Arena.ai, SWE-bench Verified, Aider Polyglot, Artificial Analysis, Hugging Face Open LLM, LiveBench, Epoch AI y catálogo vivo de OpenRouter), con telemetría del clúster, detección de deriva, export de snapshots y motor de inyección de configuración para los agentes. Score de inteligencia y coding con trazabilidad por métrica.
+   [![CI](https://github.com/floydiamarkv-byte/floydia-ai-observatory/actions/workflows/ci.yml/badge.svg)](https://github.com/floydiamarkv-byte/floydia-ai-observatory/actions/workflows/ci.yml)
+
+**3. [floydia-agent-skills](https://github.com/floydiamarkv-byte/floydia-agent-skills)** — *Autonomous Agent Skills Catalog* (`Python`, `MIT`)
+
+   Catálogo de skills agénticas de producción (harness multi-motor, orquestador arquitecto, research profundo, SRE, motor de evidencia y handoff) con contrato de cero fugas de credenciales y portable entre harnesses (OpenCode, Antigravity, Hermes).
+
+**4. [stitch2elementor](https://github.com/floydiamarkv-byte/stitch2elementor)** — *The Universal Deterministic Bridge*
+
+   Compila interfaces generadas en Google Stitch AI directamente a WordPress Elementor Flexbox Containers (`elType: "container"`) y sitios estáticos de ultra-alta velocidad. Cero alucinaciones, 27 reglas anti-error integradas y arquitectura 100% determinista.
+
+**5. [FreeLanceScrapper](https://github.com/floydiamarkv-byte/FreeLanceScrapper)** — *AI-Powered Market Intelligence*
+
+   Pipeline automatizado de inteligencia de mercado freelance. Extrae proyectos en tiempo real de Freelancer.com, los sintetiza con Groq LLM (Llama 3.3 70B) y distribuye alertas ejecutivas por Telegram, Email y Google Drive.
+
+**6. [notebooklm-research](https://github.com/floydiamarkv-byte/notebooklm-research)** — *Deep Agentic Research Engine*
+
+   Skill agéntica para investigación y síntesis profunda utilizando el Método MIT (5 Modelos Mentales, Debates Expertos y MOC Vault) conectado a Google NotebookLM.
 
 ---
 
