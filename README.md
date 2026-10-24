@@ -78,10 +78,10 @@ flowchart LR
 
 | Dominio | Tecnologías & Herramientas |
 |---|---|
-| **Agentic AI & LLMs** | Google Antigravity, MCP (Model Context Protocol), Groq LLM (Llama 3.3), FastMCP, NotebookLM |
-| **Web Engineering** | Google Stitch, WordPress Elementor (Atomic Flexbox v4), TailwindCSS, Astro, Vite, Vanilla JS/Node.js |
-| **Automation & Pipelines** | Python 3.11+, Bash scripting, Playwright headless, Crawl4AI, Telegram Bot API, Gmail SMTP, Google Drive API |
-| **Infraestructura & Servidores** | Linux (Ubuntu, Debian), Proxmox VE (LXC/KVM), Docker, Nginx, Redes Corporativas, MikroTik |
+| **Agentic AI & LLMs** | Google Antigravity, OpenCode Go ($10), DeepSeek (V4 Pro/Flash), MCP (Model Context Protocol), FastMCP, NotebookLM |
+| **Web Engineering** | Google Stitch, WordPress Elementor (Atomic Flexbox v4), TailwindCSS, Astro, Vite, Vanilla JS/Node.js, Core Web Vitals |
+| **Automation & Pipelines** | Python 3.13, Bash scripting, Playwright headless (CWV/H7), Crawl4AI, Telegram Bot API, Gmail SMTP, Google Drive API |
+| **Infraestructura & Servidores** | Linux (Debian 13, MX Linux, Ubuntu), Proxmox VE (LXC/KVM), Docker, Nginx, Redes Corporativas, MikroTik |
 
 ---
 
